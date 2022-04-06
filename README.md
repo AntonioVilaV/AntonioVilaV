@@ -1,6 +1,5 @@
 
-# Hi, I'm Antonio 👋👋🏾 👩🏾‍💻
-
+# Hi, I'm Antonio 👋
 
 I am a web developer passionate about the backend. Some of the technologies I like to work with are Django, Html, css, JavaScript. In my profile you can find a sample of the work I've done.
 
